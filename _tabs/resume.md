@@ -13,9 +13,9 @@ order: 4
 
 **Location:** Bagmati Province, Bhaktapur, Gaththaghar Area  
 **Phone:** +977 9861002474  
-**Email:** g.gautam@orangeymango.xyz  
+**Email:** g.gautam@0x9r4ngu.xyz  
 **LinkedIn:** [Gauranga Gautam](https://www.linkedin.com/in/gaurangagautam/){:target="_blank"}  
-**GitHub:** [SpiritedOnion](https://github.com/spiritedonion){:target="_blank"}
+**GitHub:** [SpiritedOnion](https://github.com/0x9r4ngu){:target="_blank"}
 
 ---
 
